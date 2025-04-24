@@ -56,6 +56,24 @@ export const testimonials = [
     image: user6,
     text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
   },
+  {
+    user: "Sophia Lee",
+    company: "Tech Innovators",
+    image: user1, 
+    text: "I've worked with many teams, but none have been as efficient and results-driven as this one. Their commitment to our success was evident in every step of the process.",
+  },
+  {
+    user: "Ethan Miller",
+    company: "Digital Frontier",
+    image: user3,
+    text: "From concept to execution, this team demonstrated incredible expertise and creativity. They took our ideas and transformed them into something truly remarkable.",
+  },
+  {
+    user: "Ava Rodriguez",
+    company: "Creative Solutions Ltd.",
+    image: user5,
+    text: "I was consistently impressed by the team's ability to anticipate challenges and proactively offer solutions. They made a complex project feel manageable and stress-free.",
+  },
 ];
 
 export const features = [
